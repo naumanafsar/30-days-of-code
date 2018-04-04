@@ -4,7 +4,6 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1)
-
 **4/04/18** | Data Types of C++, Handling float numbers |
 
 ------------
