@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 30 Days Of Code - Logs
 <a name="toc"></a>
 ### Table of Contents
 |Day|Focus|Day|Focus|
