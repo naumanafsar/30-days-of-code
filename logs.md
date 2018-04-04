@@ -3,8 +3,7 @@
 ### Table of Contents
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1)
-**4/04/18** | Data Types of C++, Handling float numbers |
+|[Day 1](#day-1)**4/04/18** | Data Types of C++, Handling float numbers |
 
 ------------
 <a name="day-1"></a>
