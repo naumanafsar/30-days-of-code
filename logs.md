@@ -33,7 +33,7 @@
 - Worked around with the floats and operators, learned about the operator precedence and how they work! and how to handle it!
 - Rounding the the numbers to nearest number.
 
-**Link to work**: [Github]()
+**Link to work**: [Github](https://github.com/naumanafsar/30-days-of-code/blob/master/operators.cpp)
 
 [Table of Contents](#toc)
 
