@@ -4,7 +4,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **4/04/18**| Data Types in C++|[Day 2](#day-2) **5/04/18**| Operators and Operator precedence |
-| [Day 3](#day-3) **6/04/18**| Conditionals | [Day 4](#day-4) **7/04/18 | Class vs Instances |
+| [Day 3](#day-3) **6/04/18**| Conditionals | [Day 4](#day-4) **7/04/18** | Class vs Instances |
 | [Day 4](#day-4) **8/04/18** | Loops |
 
 ------------
